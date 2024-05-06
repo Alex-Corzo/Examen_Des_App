@@ -25,19 +25,60 @@ public class ExamenApplication {
 
 					int x= 1 * multi;
 
-				System.out.print("La tabla del 1 es :");
+				System.out.print("La tabla del 1 x es :");
 				System.out.println(x);
-			
+			}break;
 
+			case 2:
 
+			int y = 0;
+			for (int i = 0; i < 10; i++) {
+				y = y +1;
+				int x = 1 * y;
 
+				System.out.print("La tabla del 1 x es :");
+				System.out.println(x);
 			}
 
+			System.out.println("\n -----------------------------------------------\n");
+
+
+			int a = 0;
+			for (int i = 0; i < 10; i++) {
+				a = a +1;
+				int x = 2 * a;
+
+				System.out.print("La tabla del 2 x es :");
+				System.out.println(x);
+			}
+			
+			System.out.println("\n -----------------------------------------------\n");
+
+			int b = 0;
+			for (int i = 0; i < 10; i++) {
+				b = b +1;
+				int x = 3 * b;
+
+				System.out.print("La tabla del 3 x es :");
+				System.out.println(x);
+			}
+
+			System.out.println("\n -----------------------------------------------\n");
+
+			int c = 0;
+			for (int i = 0; i < 10; i++) {
+				c = c +1;
+				int x = 4 * c;
+
+				System.out.print("La tabla del 4 x es :");
+				System.out.println(x);
+			}
+			
 			
 			break;
 
 
-
+			
 
 
 
