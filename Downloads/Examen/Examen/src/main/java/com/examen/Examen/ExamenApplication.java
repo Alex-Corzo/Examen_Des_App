@@ -77,12 +77,9 @@ public class ExamenApplication {
 			
 			break;
 
+			default:
 
-			
-
-
-
-
+			System.out.println("Se ha agregado la ultima opción de salir del menu, utilizando el default de la sentencia Switch");
 
 	}
 
